@@ -1,4 +1,4 @@
-# Tetris
+# BMI application for android
 
 Calculate your Body Mass Index (BMI) by typing your height and weight.
 
